@@ -20,3 +20,6 @@ Generate artificial data with values of the species as latent features and make 
 9 位 : id = 85 ( ドードリオ ) 予測レート : 4.413746590797718
 10 位 : id = 141 ( カブトプス ) 予測レート : 4.409230938979558
 ```
+# Reference
+Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua, *Neural Collaborative Filtering*, 2017  
+https://arxiv.org/pdf/1708.05031.pdf
