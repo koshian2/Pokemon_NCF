@@ -3,8 +3,9 @@ Pokemon recommendation using neural collaborative filtering(NCF).
 Generate artificial data with values of the species as latent features and make recommendation.
 
 # Sample
--ロケット団の場合
-評価済みポケモン
+```
+-ロケット団の場合 
+評価済みポケモン  
 ['アーボ' 'アーボック' 'ガーディ' 'ウツドン' 'ウツボット' 'シェルダー' 'ベロリン
 ガ' 'ドガース' 'マタドガス']
 おすすめのポケモン一覧
@@ -18,3 +19,4 @@ Generate artificial data with values of the species as latent features and make 
 8 位 : id = 142 ( プテラ ) 予測レート : 4.476280437575446
 9 位 : id = 85 ( ドードリオ ) 予測レート : 4.413746590797718
 10 位 : id = 141 ( カブトプス ) 予測レート : 4.409230938979558
+```
